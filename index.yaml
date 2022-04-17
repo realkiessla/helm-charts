@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  default-networkpolicy:
+  - apiVersion: v2
+    created: "2022-04-17T08:29:01.25010069Z"
+    description: Default NetworkPolicies (Deny All) to be used in Kubernetes (k0s)
+      bootstrap phase.
+    digest: 09287327a316add6fbb4fe92f3ea444cd2c38532a504175178121af59c8dc5af
+    name: default-networkpolicy
+    type: application
+    urls:
+    - https://github.com/realkiessla/helm-charts/releases/download/default-networkpolicy-0.1.0/default-networkpolicy-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-04-17T08:29:01.25011139Z"
