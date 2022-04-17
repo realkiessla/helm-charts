@@ -1,0 +1,5 @@
+apiVersion: v2
+name: default-networkpolicy
+description: Default NetworkPolicies (Deny All) to be used in Kubernetes (k0s) bootstrap phase.
+type: application
+version: 0.1.0
