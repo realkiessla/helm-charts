@@ -1,5 +1,15 @@
 apiVersion: v1
 entries:
+  config:
+  - apiVersion: v2
+    created: "2022-06-07T20:37:12.028045729Z"
+    description: Global configs for usages in our custom Helm Charts.
+    digest: d0f877150556e8ae154503f0f15d427bbce5f1b1a60244ffcc4459e538c2d61a
+    name: config
+    type: library
+    urls:
+    - https://github.com/realkiessla/helm-charts/releases/download/config-0.1.0/config-0.1.0.tgz
+    version: 0.1.0
   default-networkpolicy:
   - apiVersion: v2
     created: "2022-04-17T08:29:01.25010069Z"
@@ -11,4 +21,4 @@ entries:
     urls:
     - https://github.com/realkiessla/helm-charts/releases/download/default-networkpolicy-0.1.0/default-networkpolicy-0.1.0.tgz
     version: 0.1.0
-generated: "2022-04-17T08:29:01.25011139Z"
+generated: "2022-06-07T20:37:12.028050429Z"
