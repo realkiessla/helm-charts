@@ -1,0 +1,5 @@
+apiVersion: v2
+name: config
+description: Global configs for usages in our custom Helm Charts.
+type: library
+version: 0.1.0
